@@ -355,12 +355,9 @@ body {
         object-fit: cover;
     }
     .First__content__block__body {
-        display: grid;
-        grid-template-columns: 1fr;
+        flex-direction: column-reverse:
     }
-    .First__content__block__main__screen {
-        grid-row: 1 / 2;
-    }
+    
     .First__content__block {
         padding-top: 190px;
     }
