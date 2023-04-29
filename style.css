@@ -293,6 +293,20 @@ body {
 .First__content__block__sub__text {
     margin-bottom: 49px;
 }
+
+.First__content__block__button a{
+   
+    border-radius: 68px;
+    padding: 15px 80px 15px 80px;
+    background-color: #EF2A82;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    width: auto;
+    
+}
 @media (max-width: 380px) {
     .First__content__block__button a{
         display: flex;
@@ -309,19 +323,6 @@ body {
             
     
     }
-    
-}
-.First__content__block__button a{
-   
-    border-radius: 68px;
-    padding: 15px 80px 15px 80px;
-    background-color: #EF2A82;
-    color: white;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 19px;
-    letter-spacing: 0em;
-    width: auto;
     
 }
 .First__content__block__main__screen {
