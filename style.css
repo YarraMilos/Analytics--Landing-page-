@@ -295,6 +295,8 @@ body {
 }
 
 .First__content__block__button a{
+    display: flex;
+    flex-wrap: wrap;
     border-radius: 68px;
     padding: 15px 80px 15px 80px;
     background-color: #EF2A82;
