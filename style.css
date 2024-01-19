@@ -60,6 +60,9 @@ body {
     color: #8794BA;
     text-align: center;
 }
+.body__no__scroll {
+    overflow: hidden;
+}
 
 /*________________________header____________________________*/
 
